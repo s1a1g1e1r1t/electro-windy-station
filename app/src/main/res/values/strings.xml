@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ВітроДім</string>
+    <string name="nav_calculator">Розрахунок</string>
+    <string name="nav_blueprints">Креслення</string>
+    <string name="nav_instructions">Інструкція</string>
+    <string name="nav_materials">Матеріали</string>
+    <string name="hero_badge">ПРОЄКТ ВЕС • 14 м²</string>
+    <string name="hero_title">Домашня вітростанція для опалення</string>
+    <string name="hero_subtitle">Інженерний розрахунок ротора під вашу локацію, креслення та монтаж</string>
+</resources>

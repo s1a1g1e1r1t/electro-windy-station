@@ -1,0 +1,6 @@
+{
+  "name": "ВітроДім",
+  "description": "Калькулятор потужності, інтерактивні креслення, покрокові інструкції та список матеріалів для домашньої вітроелектростанції з розрахунком під опалення кімнати 14 м².",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
